@@ -1,0 +1,66 @@
+[
+  {
+    "accentColor": "#ff859f94",
+    "backgroundColor": "#ffffffff",
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffffffff",
+    "themeName": "护眼绿"
+  },
+  {
+    "accentColor": "#ff2d2d2d",
+    "backgroundColor": "#ffffffff",
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffffffff",
+    "themeName": "极简白"
+  },
+  {
+    "accentColor": "#ff1d83d5",
+    "backgroundColor": "#ffffffff",
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffffffff",
+    "themeName": "极简蓝白"
+  },
+  {
+    "accentColor": "#ff4a7772",
+    "backgroundColor": "#ffeeeeee",
+    "bottomBackground": "#ffeeeeee",
+    "isNightTheme": false,
+    "primaryColor": "#ff6d8d8a",
+    "themeName": "绿"
+  },
+  {
+    "accentColor": "#ff8ec1ea",
+    "backgroundColor": "#ff212121",
+    "bottomBackground": "#ff212121",
+    "isNightTheme": true,
+    "primaryColor": "#ff212121",
+    "themeName": "极简蓝白.夜"
+  },
+  {
+    "accentColor": "#ff9e9e9e",
+    "backgroundColor": "#ff393a3e",
+    "bottomBackground": "#ff393a3e",
+    "isNightTheme": true,
+    "primaryColor": "#ff333333",
+    "themeName": "黯夜"
+  },
+  {
+    "accentColor": "#ff767573",
+    "backgroundColor": "#ffecebe9",
+    "bottomBackground": "#ffecebe9",
+    "isNightTheme": false,
+    "primaryColor": "#ffecebe9",
+    "themeName": "番茄✦白天"
+  },
+  {
+    "accentColor": "#ff9e9e9e",
+    "backgroundColor": "#ff212121",
+    "bottomBackground": "#ff212121",
+    "isNightTheme": true,
+    "primaryColor": "#ff212121",
+    "themeName": "番茄✦黑夜"
+  }
+]
