@@ -1,0 +1,322 @@
+[
+  {
+    "accentColor": "#E53935",
+    "backgroundColor": "#F5F5F5",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#EEEEEE",
+    "isNightTheme": false,
+    "primaryColor": "#795548",
+    "themeName": "默认",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#E0E0E0",
+    "backgroundColor": "#424242",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#424242",
+    "isNightTheme": true,
+    "primaryColor": "#303030",
+    "themeName": "黑白",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#000000",
+    "isNightTheme": true,
+    "primaryColor": "#000000",
+    "themeName": "A屏黑",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff2d2d2d",
+    "backgroundColor": "#ffffffff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffffffff",
+    "themeName": "极简白",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff767573",
+    "backgroundColor": "#ffecebe9",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffecebe9",
+    "isNightTheme": false,
+    "primaryColor": "#ffecebe9",
+    "themeName": "番茄✦白天",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff9e9e9e",
+    "backgroundColor": "#ff212121",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff212121",
+    "isNightTheme": true,
+    "primaryColor": "#ff212121",
+    "themeName": "番茄✦黑夜",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff859f94",
+    "backgroundColor": "#ffffffff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffffffff",
+    "themeName": "极简·绿（日）",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff859f94",
+    "backgroundColor": "#ff212121",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff212121",
+    "isNightTheme": true,
+    "primaryColor": "#ff212121",
+    "themeName": "极简·绿（夜）",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff4c85ff",
+    "backgroundColor": "#fffefefe",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffffffff",
+    "themeName": "极简·蓝（日）",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff8ec1ea",
+    "backgroundColor": "#ff212121",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff212121",
+    "isNightTheme": true,
+    "primaryColor": "#ff212121",
+    "themeName": "极简·蓝（夜）",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff4a7772",
+    "backgroundColor": "#ffeeeeee",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffeeeeee",
+    "isNightTheme": false,
+    "primaryColor": "#ff6d8d8a",
+    "themeName": "浅绿",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff9e9e9e",
+    "backgroundColor": "#ff393a3e",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff393a3e",
+    "isNightTheme": true,
+    "primaryColor": "#ff333333",
+    "themeName": "黯夜",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff585858",
+    "backgroundColor": "#ffffffff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffb4c3b0",
+    "themeName": "渐变：莫兰迪绿",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff585858",
+    "backgroundColor": "#fff9f5fc",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#fff9f5fc",
+    "isNightTheme": false,
+    "primaryColor": "#ffb8b0c3",
+    "themeName": "渐变：香芋紫",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff585858",
+    "backgroundColor": "#ffffffff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ff9aaec7",
+    "themeName": "渐变：雾霾蓝",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff585858",
+    "backgroundColor": "#ffffffff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffe1c9d6",
+    "themeName": "渐变：温柔粉",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff4c85ff",
+    "backgroundColor": "#fffefefe",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ff4c85ff",
+    "themeName": "沉浸蓝",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff444559",
+    "backgroundColor": "#fffcf8ff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffe1e0f9",
+    "isNightTheme": false,
+    "primaryColor": "#ffe1e0f9",
+    "themeName": "千禧年◎日",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff444559",
+    "backgroundColor": "#ff000000",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff0e0e13",
+    "isNightTheme": true,
+    "primaryColor": "#ff0e0e13",
+    "themeName": "千禧年◎夜",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff585858",
+    "backgroundColor": "#ffffffff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff819caf",
+    "isNightTheme": false,
+    "primaryColor": "#ff819caf",
+    "themeName": "云与海",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff5f6ec1",
+    "backgroundColor": "#ff000000",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff0e0e13",
+    "isNightTheme": true,
+    "primaryColor": "#ff0e0e13",
+    "themeName": "千禧年◎夜◎高对比度版",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff767573",
+    "backgroundColor": "#ffecebe9",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffecebe9",
+    "isNightTheme": false,
+    "primaryColor": "#ffecebe9",
+    "themeName": "黑猫慢生活",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ffc4c4c4",
+    "backgroundColor": "#ff3b3a38",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff3b3a38",
+    "isNightTheme": true,
+    "primaryColor": "#ff3b3a38",
+    "themeName": "黑猫慢生活·夜",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ffb2c4d8",
+    "backgroundColor": "#ffecebe9",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffecebe9",
+    "isNightTheme": false,
+    "primaryColor": "#ffecebe9",
+    "themeName": "奔跑小黑喵",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff5f6ec1",
+    "backgroundColor": "#ffffffff",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffffffff",
+    "isNightTheme": false,
+    "primaryColor": "#ffffffff",
+    "themeName": "极简紫·亮色",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff6a99ff",
+    "backgroundColor": "#ffecebe9",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffecebe9",
+    "isNightTheme": false,
+    "primaryColor": "#ffecebe9",
+    "themeName": "（日间）极简蓝",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff668578",
+    "backgroundColor": "#fff4ece3",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff9f5041",
+    "isNightTheme": false,
+    "primaryColor": "#ffa7402e",
+    "themeName": "格兰芬多（日间）",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff5b5b5a",
+    "backgroundColor": "#fff5f5f5",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ffeeeeee",
+    "isNightTheme": false,
+    "primaryColor": "#ffe2e2e2",
+    "themeName": "Light",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#fff4f3ee",
+    "backgroundColor": "#ff000000",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff000000",
+    "isNightTheme": true,
+    "primaryColor": "#ff000000",
+    "themeName": "不是猎物，是猎手~夜",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ffbcaaa4",
+    "backgroundColor": "#ffe7e4d7",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff8f7166",
+    "isNightTheme": false,
+    "primaryColor": "#ff8f7166",
+    "themeName": "欧风",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff68a6a0",
+    "backgroundColor": "#fffbf7f5",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#fffbf7f5",
+    "isNightTheme": false,
+    "primaryColor": "#fffbf7f5",
+    "themeName": "少女",
+    "transparentNavBar": false
+  },
+  {
+    "accentColor": "#ff3b4b64",
+    "backgroundColor": "#ffe6edf5",
+    "backgroundImgBlur": 0,
+    "bottomBackground": "#ff9091ab",
+    "isNightTheme": false,
+    "primaryColor": "#ff6b739a",
+    "themeName": "将进酒（日·蓝调）",
+    "transparentNavBar": false
+  }
+]
