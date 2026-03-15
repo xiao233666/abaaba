@@ -6,7 +6,7 @@
     "bottomBackground": "#EEEEEE",
     "isNightTheme": false,
     "primaryColor": "#795548",
-    "themeName": "默认 日间",
+    "themeName": "默认日间",
     "transparentNavBar": false
   },
   {
@@ -16,7 +16,7 @@
     "bottomBackground": "#ff303030",
     "isNightTheme": true,
     "primaryColor": "#ff546e7a",
-    "themeName": "默认 夜间",
+    "themeName": "默认夜间",
     "transparentNavBar": false
   },
   {
@@ -26,7 +26,7 @@
     "bottomBackground": "#424242",
     "isNightTheme": true,
     "primaryColor": "#303030",
-    "themeName": "默认 黑白",
+    "themeName": "黑白",
     "transparentNavBar": false
   },
   {
@@ -36,7 +36,7 @@
     "bottomBackground": "#000000",
     "isNightTheme": true,
     "primaryColor": "#000000",
-    "themeName": "极简·黑",
+    "themeName": "极简黑",
     "transparentNavBar": false
   },
   {
@@ -46,7 +46,7 @@
     "bottomBackground": "#ffffffff",
     "isNightTheme": false,
     "primaryColor": "#ffffffff",
-    "themeName": "极简·白",
+    "themeName": "极简白",
     "transparentNavBar": false
   },
   {
@@ -58,7 +58,7 @@
     "primaryColor": "#ffffffff",
     "themeName": "千禧年◎日",
     "transparentNavBar": false
-  },
+  }，
   {
     "accentColor": "#ff5f6ec1",
     "backgroundColor": "#ff000000",
